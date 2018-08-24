@@ -1,0 +1,2 @@
+# safelinks
+Generate Your Safelinks
